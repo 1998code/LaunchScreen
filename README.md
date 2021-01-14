@@ -1,7 +1,9 @@
 # LaunchScreenJS
 Simple launch screen for browsers.
 
-<img width="50%" src="https://github.com/1998code/LaunchScreenJS/blob/main/CleanShot%202021-01-14%20at%2012.32.54@2x.png?raw=true" />
+Light Mode                 |          Dark Mode
+:-------------------------:|:-------------------------:
+![](https://github.com/1998code/LaunchScreenJS/blob/main/CleanShot%202021-01-14%20at%2012.32.54@2x.png?raw=true)   |  ![](https://...Ocean.png)
 
 # How to use (user)
 1. Set as HomePage / Bookmark the page:

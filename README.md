@@ -1,6 +1,8 @@
 # LaunchScreenJS
 Simple launch screen for browsers.
 
+![Promo](https://github.com/1998code/LaunchScreenJS/blob/main/CleanShot%202021-01-14%20at%2012.50.47@2x.png?raw=true)
+
 Light Mode                 |          Dark Mode
 :-------------------------:|:-------------------------:
 ![Light](https://github.com/1998code/LaunchScreenJS/blob/main/CleanShot%202021-01-14%20at%2012.32.54@2x.png?raw=true)   |  ![Dark](https://github.com/1998code/LaunchScreenJS/blob/main/CleanShot%202021-01-14%20at%2012.50.26@2x.png?raw=true)

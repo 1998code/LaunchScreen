@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Launch Screen</title>
+    <meta http-equiv="refresh" content="60">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/10-512.png?h=7213224ae3aa3ca16353b1b869bee628">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/10-512.png?h=7213224ae3aa3ca16353b1b869bee628">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/10-512.png?h=7213224ae3aa3ca16353b1b869bee628">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/10-512.png?h=7213224ae3aa3ca16353b1b869bee628">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/10-512.png?h=7213224ae3aa3ca16353b1b869bee628">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/css/bootstrap.min.css">
+    <link rel="manifest" href="manifest.json?h=19314ad39b1f78f51573d4fccc9be61b">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    <link rel="stylesheet" href="assets/css/styles.min.css?h=e9237ed48f913d0755d3a5e2ac73ec4d">
+</head>
+
+<body style="background: url(&quot;https://source.unsplash.com/user/nasa/2400x1600&quot;) center / cover no-repeat;height: 100vh;padding: 0;min-height: 100vh;">
+    <div class="d-flex d-lg-flex align-items-center align-items-lg-center" style="height: 100vh;">
+        <div class="container">
+            <div class="row">
+                <div class="col" data-aos="fade-up" data-aos-duration="500" data-aos-delay="500" data-aos-once="true" style="margin-bottom: 12px;"><a href="https://google.com" style="margin-right: 5px;"><i class="fab fa-google" style="color: rgb(255,255,255);"></i></a><a href="https://twitter.com/1998design" style="margin-right: 5px;"><i class="fab fa-twitter" style="color: rgb(255,255,255);"></i></a><a href="https://github.com/1998code" style="margin-right: 5px;"><i class="fab fa-github" style="color: rgb(255,255,255);"></i></a></div>
+                <div class="col-md-12">
+                    <h2 data-aos="fade-up" data-aos-duration="500" data-aos-delay="1000" data-aos-once="true" id="timeH2" style="text-align: left;color: rgb(255,255,255);font-weight: bold;"></h2>
+                    <h1 class="display-1" data-aos="fade-up" data-aos-duration="500" data-aos-delay="1500" data-aos-once="true" id="timeH1" style="text-align: left;color: rgb(255,255,255);font-weight: bold;"></h1><script>
+    function clock() {
+        var today = new Date();
+        var y = today.getFullYear()
+        var m = today.getMonth()+1
+        var h = today.getHours()
+        var i = today.getMinutes()
+        var s = today.getSeconds()
+        if (s<10){
+            var time = h+':'+i+':0'+s
+            if (i<10){
+                var time = h+':0'+i+':0'+s
+            }
+        }
+        else {
+            var time = h+':'+i+':'+s
+            if (i<10){
+                var time = h+':0'+i+':'+s
+            }
+        }
+        document.getElementById("timeH1").innerHTML = time;
+        document.getElementById("timeH2").innerHTML = y + "." + m;
+    }
+    setInterval(function(){clock();}, 1000);
+</script>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script src="assets/js/script.min.js?h=258fb4a324cc9d5037487a7dc0b1362c"></script>
+</body>
+
+</html>

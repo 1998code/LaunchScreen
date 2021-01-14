@@ -11,5 +11,10 @@ Simple launch screen for browsers.
 
 # How to modify (developer)
 ## Time interval
+1. Visit /index.html
+2. `<meta http-equiv="refresh" content="60">` (Default: 60s/1min)
+
+
 ## Unsplash Source
-Default: @NASA
+1. Visit /index.html
+2. `<body style="background: url(&quot;https://source.unsplash.com/user/nasa/2400x1600&quot;)` (Default: @NASA)

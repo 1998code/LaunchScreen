@@ -5,10 +5,10 @@ Simple launch screen for browsers.
   <img src="https://raw.githubusercontent.com/1998code/LaunchScreen/main/powered-by-vercel.svg"/>
 </a>
 
-Standard
+## Standard
 ![Standard](https://github.com/1998code/LaunchScreenJS/blob/main/CleanShot%202021-01-14%20at%2012.50.47@2x.png?raw=true)
 
-Alt - Search
+## Alt - Search
 
 Light Mode                 |          Dark Mode
 :-------------------------:|:-------------------------:

@@ -16,8 +16,7 @@ Add to Homescreen          |          PWA
 
 # How to use (user)
 1. Set as HomePage / Bookmark the page:
-- https://launchscreen.vercel.app or
-- https://launchscreen.now.sh
+- https://go.startway.io
 2. Done
 
 # How to modify (developer)

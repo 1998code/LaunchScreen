@@ -1,7 +1,9 @@
 # LaunchScreen
 Simple launch screen for browsers.
 
-![Promo](https://raw.githubusercontent.com/1998code/LaunchScreen/main/powered-by-vercel.svg)
+<a href="https://vercel.com/?utm_source=1998code&utm_campaign=oss">
+  <img src="https://raw.githubusercontent.com/1998code/LaunchScreen/main/powered-by-vercel.svg"/>
+</a>
 
 Standard
 ![Standard](https://github.com/1998code/LaunchScreenJS/blob/main/CleanShot%202021-01-14%20at%2012.50.47@2x.png?raw=true)

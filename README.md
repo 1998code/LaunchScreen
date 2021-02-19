@@ -1,8 +1,10 @@
 # LaunchScreen
 Simple launch screen for browsers.
 
+![Promo](https://raw.githubusercontent.com/1998code/LaunchScreen/main/powered-by-vercel.svg)
+
 Standard
-![Promo](https://github.com/1998code/LaunchScreenJS/blob/main/CleanShot%202021-01-14%20at%2012.50.47@2x.png?raw=true)
+![Standard](https://github.com/1998code/LaunchScreenJS/blob/main/CleanShot%202021-01-14%20at%2012.50.47@2x.png?raw=true)
 
 Alt - Search
 

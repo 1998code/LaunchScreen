@@ -32,6 +32,7 @@ Add to Homescreen          |          PWA
 2. Edit `<body style="background: url(&quot;https://source.unsplash.com/user/nasa/2400x1600&quot;)` (Default: @NASA)
 3. Done
 
+# Sponsorship
 <a href="https://vercel.com/?utm_source=1998code&utm_campaign=oss">
   <img src="https://raw.githubusercontent.com/1998code/LaunchScreen/main/powered-by-vercel.svg"/>
 </a>

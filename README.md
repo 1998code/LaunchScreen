@@ -5,7 +5,7 @@ Simple launch screen for browsers.
 ![Standard](https://github.com/1998code/LaunchScreenJS/blob/main/CleanShot%202021-01-14%20at%2012.50.47@2x.png?raw=true)
 
 ## Alt - Search
-![Alt](https://github.com/1998code/LaunchScreenJS/blob/main/CleanShot%202021-01-14%20at%2012.50.47@2x.png?raw=true)
+![Alt](https://github.com/1998code/LaunchScreen/blob/main/CleanShot%202021-02-20%20at%2003.12.18@2x.png?raw=true)
 
 Light Mode                 |          Dark Mode
 :-------------------------:|:-------------------------:

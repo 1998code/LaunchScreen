@@ -1,6 +1,8 @@
 # LaunchScreen
 Simple launch screen for browsers.
 
+<a href="https://www.producthunt.com/posts/launchscreen?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-launchscreen" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=285294&theme=light" alt="LaunchScreen - Simple launch screen for browsers. Written in HTML, CSS, JS. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Standard
 ![Standard](https://github.com/1998code/LaunchScreenJS/blob/main/CleanShot%202021-01-14%20at%2012.50.47@2x.png?raw=true)
 

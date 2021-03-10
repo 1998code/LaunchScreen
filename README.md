@@ -19,7 +19,7 @@ Add to Homescreen          |          PWA
 
 # How to use (user)
 1. Set as HomePage / Bookmark the page:
-- https://go.startway.io or https://go.startway.io/index-alt.html
+- https://aboutblank.vercel.app or https://aboutblank.vercel.app/index-alt.html
 2. Done
 
 # How to modify (developer)

@@ -1,8 +1,6 @@
 # LaunchScreen
 Simple launch screen for browsers.
 
-<a href="https://www.producthunt.com/posts/launchscreen?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-launchscreen" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=285294&theme=light" alt="LaunchScreen - Simple launch screen for browsers. Written in HTML, CSS, JS. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
 ## Standard
 ![Standard](https://github.com/1998code/LaunchScreenJS/blob/main/CleanShot%202021-01-14%20at%2012.50.47@2x.png?raw=true)
 
@@ -23,6 +21,8 @@ Add to Homescreen          |          PWA
 2. Done
 
 # How to modify (developer)
+You can deploy with Vercel with one click:
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2F1998code%2FLaunchScreen)
 
 ## Time interval
